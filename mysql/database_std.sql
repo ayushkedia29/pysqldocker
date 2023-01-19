@@ -7,4 +7,4 @@ CREATE TABLE students(
     PRIMARY KEY (StudentID)
 );
 
-INSERT INTO students(FirstName,Surname) VALUES ("Charles", "Leclerc"),("Max", "Verstapen");
+INSERT INTO students(FirstName,Surname) VALUES ("Charles", "Leclerc"), ("Max", "Verstappen"), ("Sergio", "Perez"), ("Carlos", "Saintz");
